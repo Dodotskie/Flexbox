@@ -50,10 +50,13 @@ body {
     /* flex-direction: row; */
     justify-content: space-between;
     align-items: baseline;
-    flex-wrap: wrap
+    /* flex-wrap: wrap; */
+    /* align-content: flex-start; */
+    /* gap: 1em; */
 }
 
 .item-2{
     flex-grow: 1;
     /* flex-shrink: 0; */
+    /* flex-basis: 300px; */
 }
